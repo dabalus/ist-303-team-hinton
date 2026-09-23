@@ -1,1 +1,1 @@
-# ist-303-yourteamname
+# ist-303-Team Hinton
