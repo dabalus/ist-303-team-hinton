@@ -22,3 +22,6 @@ instance/
 .vscode/
 .idea/
 .DS_Store
+
+#Proposal / Documentaion
+/proposal
